@@ -133,8 +133,12 @@
     <ClCompile Include="Input_Exception.cpp" />
     <ClCompile Include="Mancare.cpp" />
     <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Notifier.cpp" />
+    <ClCompile Include="Observer.cpp" />
     <ClCompile Include="Proiect_OOP.cpp" />
+    <ClCompile Include="Reservation.cpp" />
     <ClCompile Include="Restaurant.cpp" />
+    <ClCompile Include="RestaurantFactory.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FastAndFine.h" />
@@ -143,7 +147,11 @@
     <ClInclude Include="Input_Exception.h" />
     <ClInclude Include="Mancare.h" />
     <ClInclude Include="Menu.h" />
+    <ClInclude Include="Notifier.h" />
+    <ClInclude Include="Observer.h" />
+    <ClInclude Include="Reservation.h" />
     <ClInclude Include="Restaurant.h" />
+    <ClInclude Include="RestaurantFactory.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -39,6 +39,18 @@
     <ClCompile Include="FastAndFine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RestaurantFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Reservation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Observer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Notifier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Input_Exception.h">
@@ -60,6 +72,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="FastAndFine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RestaurantFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Reservation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Notifier.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
